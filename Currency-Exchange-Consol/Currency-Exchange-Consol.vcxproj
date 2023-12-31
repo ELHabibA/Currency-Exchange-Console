@@ -32,6 +32,7 @@
     <ProjectGuid>{15324604-fd21-49e0-8e8f-bc2a01373683}</ProjectGuid>
     <RootNamespace>CurrencyExchangeConsol</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>Currency-Exchange-Console</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
