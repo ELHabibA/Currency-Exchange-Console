@@ -6,16 +6,43 @@ This console application is a Currency Exchange System implemented in C++ as par
 
 ## Features
 
-Currencies List Screen.
+### Currencies List Screen
+- Display a list of available currencies.
 
-Find Currency by code or country.
+### Find Currency
+- Search for a currency using its code or country name.
 
-Update Currency Rate.
+### Update Currency Rate
+- Modify the exchange rate of a specific currency.
 
-Currency Calculator Screen.
+### Currency Calculator Screen
+- Perform currency conversion calculations.
 
 ## Technologies Used
 
-Language: C++
+- **Language:** C++
+- **Data Storage:** Files (Used for storing all currencies and their exchange rates)
 
-Data Storage: Files (Used for storing all currencies and their exchange rate)
+## Usage
+
+To use the program, follow these steps:
+
+1. Run the main application (since it's a console app).
+2. Navigate through the different screens using the on-screen instructions.
+
+## Main Screen
+
+```
+______________________________________
+    Currency Exchange Main Screen
+______________________________________
+======================================
+    Currency Exchange Menu
+=====================================
+[1] List Currencies.
+[2] Find Currency.
+[3] Update Rate.
+[4] Currency Calculator.
+======================================
+Choose what you want to do. [1 to 5]?
+```
